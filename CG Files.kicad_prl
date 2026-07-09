@@ -52,7 +52,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_00002a80_8aaaaa5f",
+    "visible_layers": "00000000_00000000_00002a80_8aaaaa6f",
     "zone_display_mode": 1
   },
   "git": {
@@ -95,18 +95,18 @@
       11
     ],
     "col_widths": [
-      70,
-      70,
-      98,
+      56,
+      56,
+      78,
+      63,
+      68,
       79,
-      85,
-      99,
-      87,
-      83,
-      42,
+      70,
+      66,
+      34,
+      35,
       44,
-      55,
-      55
+      44
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

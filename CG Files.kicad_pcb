@@ -10556,7 +10556,7 @@
 		(descr "SMD rectangular pad as test Point, square 1.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "3V1"
-			(at 0 -1.448 0)
+			(at 0 1.7625 0)
 			(layer "F.SilkS")
 			(uuid "2ca90aaf-7591-4a95-b361-a148b3f7115c")
 			(effects
@@ -24240,7 +24240,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C36"
-			(at 0 -1.85 90)
+			(at 0 -2.85 90)
 			(layer "F.SilkS")
 			(uuid "560765f6-e932-402f-a1d8-0b05952ae5d8")
 			(effects
@@ -30328,7 +30328,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R74"
-			(at 0 -1.43 0)
+			(at 0 -1.63 0)
 			(layer "F.SilkS")
 			(uuid "c998156b-f46e-400e-abdf-0560209dc3e2")
 			(effects

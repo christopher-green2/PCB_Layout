@@ -11515,7 +11515,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0b8f10ad-9389-478b-968b-632da7adc07e")
-		(property "Reference" "R60"
+		(property "Reference" "R61"
 			(at 273.05 200.66 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11577,7 +11577,7 @@
 		(instances
 			(project "CG Files"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
-					(reference "R60")
+					(reference "R61")
 					(unit 1)
 				)
 			)
@@ -15294,7 +15294,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8965ba93-7c47-480a-978b-0b3d3d4fbf1f")
-		(property "Reference" "R63"
+		(property "Reference" "R60"
 			(at 273.05 75.184 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15356,7 +15356,7 @@
 		(instances
 			(project "CG Files"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
-					(reference "R63")
+					(reference "R60")
 					(unit 1)
 				)
 			)
@@ -16652,7 +16652,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7bb5fb3-56ee-4004-ae52-4b8d537f6dec")
-		(property "Reference" "R61"
+		(property "Reference" "R62"
 			(at 275.59 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -16715,7 +16715,7 @@
 		(instances
 			(project "CG Files"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
-					(reference "R61")
+					(reference "R62")
 					(unit 1)
 				)
 			)
@@ -17563,7 +17563,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ecf4e952-319f-4b9e-8597-42ccda3ee70b")
-		(property "Reference" "R81"
+		(property "Reference" "R63"
 			(at 283.21 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17625,7 +17625,7 @@
 		(instances
 			(project "CG Files"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
-					(reference "R81")
+					(reference "R63")
 					(unit 1)
 				)
 			)
