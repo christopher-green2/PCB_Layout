@@ -12988,6 +12988,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 93.98 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "77e0bccd-20d4-46a1-a044-f684cabd5005")
 		)
@@ -13059,6 +13070,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 452.12 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 452.12 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -13321,6 +13343,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 199.39 430.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "79137218-521c-453f-92c2-f4d1e17a7beb")
 		)
@@ -13402,6 +13435,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 256.54 492.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 256.54 492.76 0)
 			(hide yes)
 			(show_name no)
@@ -13564,6 +13608,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 750.57 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 750.57 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -13745,6 +13800,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 750.57 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 750.57 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -14152,6 +14218,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 728.98 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ca714bf5-e897-4cb4-8800-d9ebc697e7cf")
 		)
@@ -14224,6 +14301,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 363.22 389.89 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 363.22 389.89 0)
 			(hide yes)
 			(show_name no)
@@ -14395,6 +14483,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 774.7 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c6ddb474-f776-4461-9af7-8c6dbc6e676a")
 		)
@@ -14467,6 +14566,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 157.48 255.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 157.48 255.27 0)
 			(hide yes)
 			(show_name no)
@@ -14628,6 +14738,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 477.52 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 477.52 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -14869,6 +14990,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 375.92 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 375.92 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -15279,6 +15411,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 765.81 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a81b666f-a181-415c-a2b0-51d5162f1c4e")
 		)
@@ -15351,6 +15494,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 337.82 481.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 337.82 481.33 0)
 			(hide yes)
 			(show_name no)
@@ -15442,6 +15596,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 560.07 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "99f1f25e-2fe7-465d-b5eb-68c8ad7bb506")
 		)
@@ -15513,6 +15678,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 190.5 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 190.5 373.38 0)
 			(hide yes)
 			(show_name no)
@@ -15673,6 +15849,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 435.61 367.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 435.61 367.03 0)
 			(hide yes)
 			(show_name no)
@@ -15950,6 +16137,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 765.81 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1c279a48-80f0-40bb-82c3-98907bfbe197")
 		)
@@ -16022,6 +16220,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 62.23 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/gullwing"
 			(at 62.23 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -16197,6 +16406,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 191.77 243.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 191.77 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -16526,6 +16746,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 502.92 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b66d2a17-3051-4bd0-a987-ba45c73356c0")
 		)
@@ -16617,6 +16848,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 419.1 481.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4690b632-4792-42a0-9fa6-c94608dff30c")
 		)
@@ -16698,6 +16940,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 419.1 449.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 419.1 449.58 0)
 			(hide yes)
 			(show_name no)
@@ -16947,6 +17200,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 375.92 374.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b268832c-d9ca-4d0f-a9af-544a8ea0dda3")
 		)
@@ -17016,6 +17280,17 @@
 			)
 		)
 		(property "Description" "Single Inverter Gate, SOT-553"
+			(at 547.37 467.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/gullwing"
 			(at 547.37 467.36 0)
 			(hide yes)
 			(show_name no)
@@ -17107,6 +17382,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 477.52 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 477.52 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -17265,6 +17551,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 542.29 415.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 542.29 415.29 0)
 			(hide yes)
 			(show_name no)
@@ -17673,6 +17970,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "inductor/SMD"
+			(at 750.57 177.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "0277e063-63dc-4336-b0bb-c6a7dfdc6e99")
 		)
@@ -17745,6 +18053,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 323.85 466.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 323.85 466.09 0)
 			(hide yes)
 			(show_name no)
@@ -17837,6 +18156,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 375.92 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34db1fd2-a7bf-4626-9586-844b41dc22d2")
 		)
@@ -17919,6 +18249,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 176.53 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "65958e68-1370-493c-bfbd-323b66b5183b")
 		)
@@ -17991,6 +18332,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 157.48 270.51 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 157.48 270.51 0)
 			(hide yes)
 			(show_name no)
@@ -18153,6 +18505,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 676.91 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 676.91 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -18483,6 +18846,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 571.5 472.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b8a2509a-3c2a-4b75-bca1-3aaf1286567c")
 		)
@@ -18634,6 +19008,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 317.5 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 317.5 223.52 0)
 			(hide yes)
 			(show_name no)
@@ -19197,6 +19582,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 742.95 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aacef288-80b0-4f21-8c35-f8c4ad623afd")
 		)
@@ -19357,6 +19753,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 378.46 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6e16bc82-892c-43b5-9aca-480db8fe5ab8")
 		)
@@ -19429,6 +19836,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 160.02 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 160.02 373.38 0)
 			(hide yes)
 			(show_name no)
@@ -19522,6 +19940,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 695.96 447.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "28f6b3d2-56ea-4d77-a021-ee5be6b972eb")
 		)
@@ -19594,6 +20023,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 345.44 353.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 345.44 353.06 0)
 			(hide yes)
 			(show_name no)
@@ -19677,6 +20117,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 695.96 420.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 695.96 420.37 0)
 			(hide yes)
 			(show_name no)
@@ -19847,6 +20298,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 387.35 454.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d6e2cf78-d2f2-4118-b113-fd3d39c6ba4e")
 		)
@@ -19918,6 +20380,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 688.34 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 688.34 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -20010,6 +20483,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 248.92 360.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "20583173-6935-4220-a506-eb4e6d64c604")
 		)
@@ -20082,6 +20566,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 642.62 459.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 642.62 459.74 0)
 			(hide yes)
 			(show_name no)
@@ -20331,6 +20826,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 317.5 463.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c72a2411-4f93-4e8e-8ba7-9b40432ca2e8")
 		)
@@ -20481,6 +20987,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 560.07 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 560.07 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -20651,6 +21168,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 735.33 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "84b6f695-bf5f-482d-affd-48107256a837")
 		)
@@ -20723,6 +21251,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 191.77 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 191.77 251.46 0)
 			(hide yes)
 			(show_name no)
@@ -20964,6 +21503,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 106.68 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 106.68 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -21425,6 +21975,17 @@
 				(justify bottom)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 287.02 468.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "181f40a5-c6fb-40f3-99cc-f3642164d454")
 		)
@@ -21506,6 +22067,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 414.02 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 414.02 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -21756,6 +22328,17 @@
 				(justify left top)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 281.94 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "4962e4ea-23e0-4518-95be-e0017b52eaf2")
 		)
@@ -21850,6 +22433,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 81.28 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b6bddc57-9aea-4674-9ad4-75c87b7a0fdd")
 		)
@@ -21920,6 +22514,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 120.65 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 120.65 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -22002,6 +22607,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 93.98 271.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 93.98 271.78 0)
 			(hide yes)
 			(show_name no)
@@ -22224,6 +22840,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 711.2 453.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 711.2 453.39 0)
 			(hide yes)
 			(show_name no)
@@ -22473,6 +23100,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "inductor/SMD"
+			(at 325.12 236.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "fb4916f9-7bbc-4af0-be02-3bbaf77dc4f0")
 		)
@@ -22545,6 +23183,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 262.89 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 262.89 245.11 0)
 			(hide yes)
 			(show_name no)
@@ -22706,6 +23355,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 254 468.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 254 468.63 0)
 			(hide yes)
 			(show_name no)
@@ -23037,6 +23697,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 125.73 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "98cc892d-ae4c-47c4-ba71-aad8d84f004a")
 		)
@@ -23166,6 +23837,17 @@
 				(justify bottom)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 402.59 369.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f9e15129-d53e-4928-957e-569b48c90f4a")
 		)
@@ -23260,6 +23942,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 622.3 463.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c482ce71-022a-4cd8-aebb-2e566df2996d")
 		)
@@ -23332,6 +24025,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 401.32 156.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 401.32 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -23493,6 +24197,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 619.76 424.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 619.76 424.18 0)
 			(hide yes)
 			(show_name no)
@@ -23747,6 +24462,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 765.81 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 765.81 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -24154,6 +24880,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 544.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e47e87db-4ff8-47c0-a4bb-ed71b38fd6ba")
 		)
@@ -24225,6 +24962,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 707.39 426.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 707.39 426.72 0)
 			(hide yes)
 			(show_name no)
@@ -24395,6 +25143,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 769.62 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "94d27b5a-37cf-4468-ad89-a9a9a2440dee")
 		)
@@ -24522,6 +25281,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "KiLib_Generator" "package/no_lead"
+			(at 124.46 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "16"
@@ -25289,6 +26059,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 134.62 447.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d54e6431-ac56-4358-bf36-07ba61a5907f")
 		)
@@ -25371,6 +26152,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 406.4 461.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a0ec74e9-f32d-4617-b60c-5944bc730864")
 		)
@@ -25440,6 +26232,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 120.65 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 120.65 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -25532,6 +26335,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 60.96 246.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ff15b8f2-7c17-4dd6-9a72-75a937fded1a")
 		)
@@ -25601,6 +26415,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 201.93 416.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 201.93 416.56 0)
 			(hide yes)
 			(show_name no)
@@ -25683,6 +26508,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 337.82 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 337.82 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -26189,6 +27025,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 125.73 445.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9e0789a1-235c-47ea-9f03-e3552c187687")
 		)
@@ -26271,6 +27118,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 140.97 422.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "381eea83-5199-4316-955f-3a1e121f06d1")
 		)
@@ -26343,6 +27201,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 760.73 187.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 760.73 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -26446,6 +27315,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 176.53 220.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2126c412-cab8-4653-bf09-46e34ef7198a")
 		)
@@ -26518,6 +27398,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 269.24 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 269.24 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -26742,6 +27633,17 @@
 				(justify bottom)
 			)
 		)
+		(property "KiLib_Generator" "package/gullwing"
+			(at 287.02 502.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "770a71b7-660a-482e-9494-1cb68a855f1f")
 		)
@@ -26822,6 +27724,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 679.45 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 679.45 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -27089,6 +28002,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 477.52 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "19aadc27-f85c-41fe-8c14-5de312326900")
 		)
@@ -27250,6 +28174,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 356.87 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "be1e3007-b3e0-4734-84bf-f84812bcb2af")
 		)
@@ -27398,6 +28333,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 544.83 454.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 544.83 454.66 0)
 			(hide yes)
 			(show_name no)
@@ -27570,6 +28516,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 128.27 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c70cc325-2840-4fe9-af9b-22964461d003")
 		)
@@ -27641,6 +28598,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 668.02 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 668.02 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -27801,6 +28769,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 681.99 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 681.99 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -27973,6 +28952,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 256.54 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86cce99c-dda3-4dd4-a105-9e694a98aa4e")
 		)
@@ -28045,6 +29035,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 368.3 374.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 368.3 374.65 0)
 			(hide yes)
 			(show_name no)
@@ -28136,6 +29137,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 803.91 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "25a034f6-220c-4432-9b05-93584dabf78e")
 		)
@@ -28207,6 +29219,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 768.35 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 768.35 165.1 0)
 			(hide yes)
 			(show_name no)
@@ -28298,6 +29321,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 368.3 368.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7264a9c9-7783-4d91-922d-940d4c3652a2")
 		)
@@ -28367,6 +29401,17 @@
 			)
 		)
 		(property "Description" "Single Inverter Gate, SOT-553"
+			(at 544.83 427.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/gullwing"
 			(at 544.83 427.99 0)
 			(hide yes)
 			(show_name no)
@@ -28547,6 +29592,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 256.54 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "03450e9d-83fc-4a76-ad79-3f9deec6b3df")
 		)
@@ -28618,6 +29674,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 670.56 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 670.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -28947,6 +30014,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 745.49 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "55b16aa7-096e-4c43-8cc6-6f2fb12e773c")
 		)
@@ -29108,6 +30186,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 332.74 223.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3b7bdf99-1869-4ef3-b908-1aaeef86f04d")
 		)
@@ -29178,6 +30267,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 256.54 513.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 256.54 513.08 0)
 			(hide yes)
 			(show_name no)
@@ -29260,6 +30360,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 394.97 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 394.97 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -29429,6 +30540,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 64.77 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "56d62b60-4a43-4ef8-9631-8322960e3776")
 		)
@@ -29501,6 +30623,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 81.28 259.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 81.28 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -29764,6 +30897,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 568.96 433.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6281dc4c-f4b4-43bb-b87b-a26703df6013")
 		)
@@ -29836,6 +30980,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 406.4 468.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 406.4 468.63 0)
 			(hide yes)
 			(show_name no)
@@ -30008,6 +31163,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 248.92 373.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "826ceb6e-cc38-4ee8-aefd-e396b36d6774")
 		)
@@ -30080,6 +31246,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 378.46 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 378.46 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -30171,6 +31348,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 786.13 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5a3030e-c12e-4de0-b8b7-06586bcb44fd")
 		)
@@ -30242,6 +31430,17 @@
 			)
 		)
 		(property "Description" "capacitor, small US symbol"
+			(at 486.41 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 486.41 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -30333,6 +31532,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 262.89 240.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7f499c9-634d-4602-ac6f-0f98f0fc8202")
 		)
@@ -30405,6 +31615,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 394.97 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 394.97 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -30564,6 +31785,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 740.41 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 740.41 170.18 0)
 			(hide yes)
 			(show_name no)
