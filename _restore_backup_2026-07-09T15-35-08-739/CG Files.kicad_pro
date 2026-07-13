@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "border_display_style": 0,
+          "border_display_style": 2,
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
@@ -64,7 +64,7 @@
           "min_island_area": 10.0,
           "min_thickness": 0.1,
           "pad_connection": 2,
-          "remove_islands": 0,
+          "remove_islands": 1,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
         }
@@ -146,7 +146,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.2032,
+        "min_clearance": 0.127,
         "min_connection": 0.127,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -159,7 +159,7 @@
         "min_text_height": 0.8,
         "min_text_thickness": 0.127,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2032,
+        "min_track_width": 0.127,
         "min_via_annular_width": 0.1016,
         "min_via_diameter": 0.4572,
         "solder_mask_to_copper_clearance": 0.0,
@@ -211,7 +211,7 @@
       ],
       "track_widths": [
         0.0,
-        0.1524,
+        0.15,
         0.2,
         0.5
       ],
@@ -763,7 +763,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2032,
+        "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -774,7 +774,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2032,
+        "track_width": 0.2,
         "tuning_profile": "",
         "via_diameter": 0.6,
         "via_drill": 0.3,
@@ -1078,7 +1078,7 @@
         "uuid": "bab4cc86-0c89-4bf5-848e-e99340a6180d"
       }
     ],
-    "used_designators": "J8-16",
+    "used_designators": "J_V064CARD_L3-4,L_BK1,#PWR1-239,C1-149,BUF1-12,LQFP64_DEAD_1-2,PARENT_DEAD1-3,Q_OVP1,OR1-4,J_SOCKET_100_1-2,PWR_MUX1,J_SOCKET_64_1-2,LQFP100_DEAD_1-2,BAT1,1V8_EN1,LQFP64_DATA_1-2,LD1-7,J1-16,R1-90,#FLG1-9,1V1,FB1,3.3V_EN1,3V1,AND1-4,OCP1,BOOT0_LED1,BOOT1,ARM1,BAT_CHG1,DEC1,D1-5,BAT_SET1,LQFP64_USART1,BOOST1,J_CARDX_L_1,INV1-7,BUCK_1V1,BUCK_3V1,cg\\-SWD_Breakout_Parent1,CHGR1,LQFP100_USART1,EFUSE1,FLT1,L_BST1,LBK\\-1,LCD1,LQFP100_DATA_1,LQFP100_SWD1,LQFP64_SWD1,LS1-2,NAND1,VTGT_3V1,SW_BOOT1,OVP1,STM32H1,RESET1,U\\-ESD1,SPST1-4,TRGT_PWR1,TRGT_PWR_ON1,USB\\-C1,VSYS1,VTGT_1V1,Y1",
     "variants": []
   },
   "sheets": [

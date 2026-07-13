@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bab4cc86-0c89-4bf5-848e-e99340a6180d")
+	(paper "E")
+	(lib_symbols)
+	(text "Plug In cards"
+		(exclude_from_sim no)
+		(at 661.67 163.068 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "11d9ac5f-7e73-4e03-90a4-be6fd23f507b")
+	)
+	(text "Profile Switching"
+		(exclude_from_sim no)
+		(at 119.888 268.732 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "2b84d96b-e53b-43da-a0fc-ed70e3889616")
+	)
+	(text "Parent_MCU"
+		(exclude_from_sim no)
+		(at 298.196 91.186 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "95f7d83c-f7a5-4d2a-9cb4-81759c08ec8b")
+	)
+	(text "Power Supply"
+		(exclude_from_sim no)
+		(at 92.71 92.456 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "e0729099-01bd-4224-98da-ad80581beac3")
+	)
+	(sheet
+		(at 27.94 60.96)
+		(size 157.48 144.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "074ec3ee-4318-401c-b0e4-fc01472c8356")
+		(property "Sheetname" "PowerSupply"
+			(at 27.94 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 27.94 206.3246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CG Files"
+				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 30.48 254)
+		(size 195.58 171.45)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "24faf82a-b839-4edc-829e-531b29da0492")
+		(property "Sheetname" "Profile_Switching"
+			(at 30.48 253.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Profile_Switching.kicad_sch"
+			(at 30.48 426.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CG Files"
+				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 443.23 60.96)
+		(size 483.87 327.66)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5802e3a7-f52a-44b3-bd2f-d3d68db2b9e3")
+		(property "Sheetname" "Plug_in_Cards"
+			(at 443.23 60.2484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Plug_in_Cards.kicad_sch"
+			(at 443.23 389.2046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CG Files"
+				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 226.06 59.69)
+		(size 167.64 144.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d2a8d785-8eb6-410a-b71c-0410f8135e6c")
+		(property "Sheetname" "Parent_MCU"
+			(at 226.06 58.9784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Parent_MCU.kicad_sch"
+			(at 226.06 205.0546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CG Files"
+				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
