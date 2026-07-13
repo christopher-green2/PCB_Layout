@@ -16784,7 +16784,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37d5bac3-7df7-4ec1-b444-83014d3f5077")
-		(property "Reference" "TRGT_PWR1"
+		(property "Reference" "PWR1"
 			(at 420.6875 473.71 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16868,7 +16868,7 @@
 		(instances
 			(project "CG Files"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/074ec3ee-4318-401c-b0e4-fc01472c8356"
-					(reference "TRGT_PWR1")
+					(reference "PWR1")
 					(unit 1)
 				)
 			)
