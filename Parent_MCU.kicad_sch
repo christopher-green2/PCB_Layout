@@ -11586,7 +11586,7 @@
 			(uuid "6e4f413c-0bc7-48e0-a4d2-2626f423e98f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R61")
 					(unit 1)
@@ -11668,7 +11668,7 @@
 			(uuid "10aa1345-a69e-47b8-b78c-b4a68a473f69")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "D4")
 					(unit 1)
@@ -11750,7 +11750,7 @@
 			(uuid "6eacb364-3120-49b2-8ac1-cf46d133d0b7")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "D3")
 					(unit 1)
@@ -11843,7 +11843,7 @@
 			(uuid "4396c34c-181d-4177-b1d3-9ad051a5f97e")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C53")
 					(unit 1)
@@ -11928,7 +11928,7 @@
 			(uuid "bc9b2ba7-5ed1-4faf-be03-d9cce5cf50b2")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "SW_BOOT1")
 					(unit 1)
@@ -12027,7 +12027,7 @@
 			(uuid "e6d7a3dc-eff8-4f56-9214-a89f8d2063e4")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "Y1")
 					(unit 1)
@@ -12121,7 +12121,7 @@
 			(uuid "3700b6b8-e53c-4568-a367-c0bea59de203")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C58")
 					(unit 1)
@@ -12203,7 +12203,7 @@
 			(uuid "4b8b7412-634e-4f90-9f22-d9698460bd36")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "D5")
 					(unit 1)
@@ -12283,7 +12283,7 @@
 			(uuid "8a1fc144-1132-4930-9388-45a3ca5c60ee")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR080")
 					(unit 1)
@@ -12374,7 +12374,7 @@
 			(uuid "494ef3d9-6e60-4cfc-8227-2478fbfd7d09")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R57")
 					(unit 1)
@@ -12465,7 +12465,7 @@
 			(uuid "f84e86c1-8149-44dc-a086-1bd9dc2f2edf")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R58")
 					(unit 1)
@@ -12544,7 +12544,7 @@
 			(uuid "d85dcc7c-099f-4945-b0f6-3e7b9a1fcc45")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR071")
 					(unit 1)
@@ -12638,7 +12638,7 @@
 			(uuid "f948b783-5a71-4ffd-8c99-02b48c6595ad")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R53")
 					(unit 1)
@@ -12718,7 +12718,7 @@
 			(uuid "8ea35453-5233-43d4-9247-0055b2d888b4")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR076")
 					(unit 1)
@@ -12797,7 +12797,7 @@
 			(uuid "4563d0d7-d170-4a28-945c-779156fae42f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR070")
 					(unit 1)
@@ -12888,7 +12888,7 @@
 			(uuid "795f0409-2b94-47bb-8936-858be74a03fd")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "FB1")
 					(unit 1)
@@ -12978,7 +12978,7 @@
 			(uuid "5b32784b-4c7c-427b-80bb-9132b71d1234")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R55")
 					(unit 1)
@@ -13072,7 +13072,7 @@
 			(uuid "4cbac010-233f-4495-84ae-26a50582230f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C67")
 					(unit 1)
@@ -13152,7 +13152,7 @@
 			(uuid "bfc2ca70-e7b5-4923-bafe-d9cf0ebbe17f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR078")
 					(unit 1)
@@ -13245,7 +13245,7 @@
 			(uuid "1fa6922a-9f97-4a36-8a57-031cff356db8")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C54")
 					(unit 1)
@@ -13339,7 +13339,7 @@
 			(uuid "7665d262-6e40-44a5-88d6-207b2756f337")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C65")
 					(unit 1)
@@ -13419,7 +13419,7 @@
 			(uuid "9670c4b0-502f-432f-99d9-b90d1ea39ad1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "BOOT1")
 					(unit 1)
@@ -13499,7 +13499,7 @@
 			(uuid "64945c64-4044-48a7-8a85-323ce3b846c4")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR087")
 					(unit 1)
@@ -13591,7 +13591,7 @@
 			(uuid "972453ba-349c-4407-b494-41dba3dc100c")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C55")
 					(unit 1)
@@ -13682,7 +13682,7 @@
 			(uuid "4fb5739a-d2e3-45a3-a1ac-9f82cd7a8010")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R54")
 					(unit 1)
@@ -13762,7 +13762,7 @@
 			(uuid "a8f94ab4-2c01-4b87-8a91-3c249f03a26d")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR072")
 					(unit 1)
@@ -13842,7 +13842,7 @@
 			(uuid "17e505bd-dbc2-4a5a-8642-3d67c1babe44")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR086")
 					(unit 1)
@@ -13924,7 +13924,7 @@
 			(uuid "c3415794-b4ce-4d10-8d83-f8d6978f6677")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "D1")
 					(unit 1)
@@ -14004,7 +14004,7 @@
 			(uuid "b8a198b4-a88a-42c0-8c8d-4dd9a90bb1da")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR084")
 					(unit 1)
@@ -14084,7 +14084,7 @@
 			(uuid "c7b56e98-1dd4-4ba3-88a7-5ac9db512852")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR079")
 					(unit 1)
@@ -14177,7 +14177,7 @@
 			(uuid "9ee84ab5-ecff-4f9e-9c66-f153dd69e27f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R51")
 					(unit 1)
@@ -14257,7 +14257,7 @@
 			(uuid "f9386715-9402-45a6-b9f8-649ae5a3804e")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR073")
 					(unit 1)
@@ -14777,7 +14777,7 @@
 			(uuid "0d79dc27-5b20-454a-bfde-268f56fb8fa3")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "STM32H1")
 					(unit 1)
@@ -14870,7 +14870,7 @@
 			(uuid "55d8c3b6-9154-4388-9c52-1c5048758ca1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R50")
 					(unit 1)
@@ -14961,7 +14961,7 @@
 			(uuid "a591bfe7-6fdc-4dbc-8314-97bc2d9f7d89")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C62")
 					(unit 1)
@@ -15055,7 +15055,7 @@
 			(uuid "7893c39d-2213-4453-9c73-a05472cc2547")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C56")
 					(unit 1)
@@ -15138,7 +15138,7 @@
 			(uuid "a1fe3527-9252-454a-a0a1-44474276a0d4")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "D2")
 					(unit 1)
@@ -15232,7 +15232,7 @@
 			(uuid "b5c87420-f3dc-4f52-a49b-e84e3bfcdcba")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C64")
 					(unit 1)
@@ -15312,7 +15312,7 @@
 			(uuid "f49f4094-81f3-4f69-ad16-f7559b791433")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR077")
 					(unit 1)
@@ -15404,7 +15404,7 @@
 			(uuid "887b0f08-f739-4687-bac8-98c5000f4336")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C52")
 					(unit 1)
@@ -15484,7 +15484,7 @@
 			(uuid "e3679e5a-cbdb-4d27-8d9c-55fed2528eb1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR081")
 					(unit 1)
@@ -15574,7 +15574,7 @@
 			(uuid "cb6921c9-69d0-44f1-9c30-a898b9b0b859")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R60")
 					(unit 1)
@@ -15667,7 +15667,7 @@
 			(uuid "cbf958e0-7384-49e6-b69b-b055933d6e3a")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C63")
 					(unit 1)
@@ -15747,7 +15747,7 @@
 			(uuid "19e11069-8f16-4109-b540-1507d7407eaa")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR088")
 					(unit 1)
@@ -15899,7 +15899,7 @@
 			(uuid "5e925f04-c060-439e-8838-ade686f51aea")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "LCD1")
 					(unit 1)
@@ -15993,7 +15993,7 @@
 			(uuid "ec4d6e9e-74b5-454f-9623-fabdf3eba86f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C61")
 					(unit 1)
@@ -16083,7 +16083,7 @@
 			(uuid "a183571a-c5f2-4aff-b6c9-bf5c2dc8969d")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R59")
 					(unit 1)
@@ -16177,7 +16177,7 @@
 			(uuid "36723c75-f205-4f95-9d21-122fd87ca5b5")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C68")
 					(unit 1)
@@ -16268,7 +16268,7 @@
 			(uuid "c01b0764-4d59-4da6-a8bb-be5dc8f67110")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R49")
 					(unit 1)
@@ -16359,7 +16359,7 @@
 			(uuid "317b7040-7ffc-49b8-b6c9-c083a11545a1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R56")
 					(unit 1)
@@ -16453,7 +16453,7 @@
 			(uuid "95b77feb-964a-42ad-b5ac-c15f1aeebe60")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C69")
 					(unit 1)
@@ -16546,7 +16546,7 @@
 			(uuid "6b5f734e-da39-449f-92b3-4ee8f89cd378")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C72")
 					(unit 1)
@@ -16626,7 +16626,7 @@
 			(uuid "6c274d09-5889-44f4-bd18-9d3e44402735")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR085")
 					(unit 1)
@@ -16706,7 +16706,7 @@
 			(uuid "47ec9f90-2e0b-4a30-afdd-6753c23f640a")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR069")
 					(unit 1)
@@ -16799,7 +16799,7 @@
 			(uuid "31133cdc-a52b-4b5e-ad26-b053f281335b")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C70")
 					(unit 1)
@@ -16893,7 +16893,7 @@
 			(uuid "b7046cab-5711-480c-80f7-fdbc3fc317ad")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C60")
 					(unit 1)
@@ -16985,7 +16985,7 @@
 			(uuid "c9066e36-16cf-4e25-a0c7-625adac229a2")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C50")
 					(unit 1)
@@ -17076,7 +17076,7 @@
 			(uuid "74041166-88c2-44a0-86d8-245180ffbecd")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R62")
 					(unit 1)
@@ -17168,7 +17168,7 @@
 			(uuid "4e41b842-57fc-4855-bf2d-89f816026ee2")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R52")
 					(unit 1)
@@ -17256,7 +17256,7 @@
 			(uuid "e3a2ade7-ab5c-4332-9f58-8efeff262a97")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "RESET1")
 					(unit 1)
@@ -17336,7 +17336,7 @@
 			(uuid "60420c4d-7a49-4780-b471-a506b65e985e")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR074")
 					(unit 1)
@@ -17429,7 +17429,7 @@
 			(uuid "5511d338-9acd-40cf-b7ab-0e59475b5f8f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C51")
 					(unit 1)
@@ -17523,7 +17523,7 @@
 			(uuid "20ed82c0-afb5-4d8e-b29f-a4add7505d40")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C71")
 					(unit 1)
@@ -17625,7 +17625,7 @@
 			(uuid "6645a592-5f6c-4fa6-9dcf-b42dfdc7b06d")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "BOOT0_LED1")
 					(unit 1)
@@ -17705,7 +17705,7 @@
 			(uuid "c60febe2-85af-4905-a2db-e7508edadc73")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR075")
 					(unit 1)
@@ -17799,7 +17799,7 @@
 			(uuid "67524e8b-a5cf-4899-a9c1-3a1e0b9fb32f")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C57")
 					(unit 1)
@@ -17879,7 +17879,7 @@
 			(uuid "ce900885-b7ed-46c1-be76-d7ac03b38aa1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR082")
 					(unit 1)
@@ -17973,7 +17973,7 @@
 			(uuid "449bf2a0-057a-45cf-927b-1b998027a762")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C59")
 					(unit 1)
@@ -18063,7 +18063,7 @@
 			(uuid "49f1fc19-f264-4455-835f-09a7dd7becb3")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "R63")
 					(unit 1)
@@ -18157,7 +18157,7 @@
 			(uuid "2307dffa-a6f7-4324-a83a-e7a59c666f2a")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "C66")
 					(unit 1)
@@ -18237,7 +18237,7 @@
 			(uuid "3618f8fd-2966-4059-b904-eb2181305deb")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "#PWR083")
 					(unit 1)
@@ -18337,7 +18337,7 @@
 			(uuid "3bece739-a474-4b7e-bfd3-4607de03bdf1")
 		)
 		(instances
-			(project "CG Files"
+			(project "FINALE SAUCE"
 				(path "/bab4cc86-0c89-4bf5-848e-e99340a6180d/d2a8d785-8eb6-410a-b71c-0410f8135e6c"
 					(reference "cg-SWD_Breakout_Parent1")
 					(unit 1)

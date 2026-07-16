@@ -756,7 +756,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcbfiles.kicad_pro",
+    "filename": "FINALE SAUCE.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -1028,6 +1028,12 @@
           "label": "Manufacturer_Part_Number",
           "name": "Manufacturer_Part_Number",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "KiLib_Generator",
+          "name": "KiLib_Generator",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -1073,8 +1079,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "CG Files.kicad_sch",
-        "name": "Root",
+        "filename": "FINALE SAUCE.kicad_sch",
+        "name": "FINALE SAUCE",
         "uuid": "bab4cc86-0c89-4bf5-848e-e99340a6180d"
       }
     ],
@@ -1084,7 +1090,7 @@
   "sheets": [
     [
       "bab4cc86-0c89-4bf5-848e-e99340a6180d",
-      "Root"
+      "FINALE SAUCE"
     ],
     [
       "074ec3ee-4318-401c-b0e4-fc01472c8356",
